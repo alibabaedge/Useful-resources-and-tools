@@ -19,3 +19,12 @@ Cyber (Bostrom) GH page - https://github.com/cybercongress/go-cyber/tree/main?ta
 Cosmos chain-registry (public peers, RPC's and other) - https://github.com/cosmos/chain-registry/tree/master
 
 Key management and security - https://github.com/strangelove-ventures/horcrux/tree/main
+
+One clikc node intallation (with monitoring) - https://klein.run/?lang=en
+
+Kubernetes Cosmos operator - https://github.com/strangelove-ventures/cosmos-operator?tab=readme-ov-file
+
+Web3 alerts (transfers, events and creating smart contracts) - https://dev.web3alert.io/
+
+Cosmos Rescue - https://cosmosrescue.com/relayer
+
