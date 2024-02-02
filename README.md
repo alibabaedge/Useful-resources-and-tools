@@ -28,3 +28,5 @@ Web3 alerts (transfers, events and creating smart contracts) - https://dev.web3a
 
 Cosmos Rescue - https://cosmosrescue.com/relayer
 
+Cosmos monitoring - https://github.com/kw1knode/cosmos-monitoring-v2
+
