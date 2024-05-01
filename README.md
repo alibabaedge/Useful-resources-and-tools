@@ -33,3 +33,7 @@ Cosmos monitoring - https://github.com/kw1knode/cosmos-monitoring-v2
 IBC FeeGrant - https://github.com/cryptocrew-validators/relayer-feegrant-wg/tree/main
 
 CLI p2p tendermint check - https://github.com/strangelove-ventures/tmp2p
+
+S.M.A.R.T. monitoring exporter for prometheus - https://github.com/matusnovak/prometheus-smartctl
+
+S.M.A.R.T. monitoring exporter by Bro_n_Bro - https://github.com/bro-n-bro/bro_infra/blob/channels-collector/docs/SMART_exporter_usage.md
